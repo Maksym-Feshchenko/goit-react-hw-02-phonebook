@@ -1,0 +1,22 @@
+.form {
+    height: 30px;
+    width: 300px;
+    display: flex;
+    border-color: rgb(116, 255, 10);
+}
+
+.btn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  
+}
+
+.formFind {
+  display: flex;
+}
+
+
+
